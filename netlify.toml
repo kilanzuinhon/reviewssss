@@ -4,7 +4,7 @@
 ## This rule redirects to an external API, signing requests with a secret
 [[redirects]]
   from = "/posts/another-post-in-the-wall"
-  to = "/home"
+  to = "https://reviewsworld.net/successful-popular-k-pop-idols/"
   status = 200
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"}
