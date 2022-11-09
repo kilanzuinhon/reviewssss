@@ -1,5 +1,4 @@
 [[redirects]]
-  from = "/home *"
-  to = "https://reviewsworld.net/:splat"
-  status = 301
-  force = true
+  from = "/home"
+  to = "https://reviewsworld.net/"
+  status = 302
