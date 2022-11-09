@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/home"
-  to = "https://reviewsworld.net/:splat"
-  status = 301
-  force = true
+from = "https://reviewssspet.netlify.app/*"
+to = "https://reviewsworld.net/"
+status = 301
+force = true
