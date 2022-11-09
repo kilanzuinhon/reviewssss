@@ -1,9 +1,5 @@
-[build]
-  command = "npm run build"
-  publish = "public"
-
 [[redirects]]
-  from = "/home/*"
-  to = "https://www.ionvarsescu.tk/:splat"
+  from = "/home *"
+  to = "https://reviewsworld.net/:splat"
   status = 301
   force = true
