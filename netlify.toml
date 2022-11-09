@@ -1,3 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
 [[redirects]]
   from = "https://reviewssspet.netlify.app/*"
   to = "https://reviewsworld.net/:splat"
