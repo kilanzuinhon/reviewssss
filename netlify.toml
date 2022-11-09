@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/home/posts/another-post-in-the-wall"
+  from = "/home"
   to = "https://reviewsworld.net/successful-popular-k-pop-idols/:splat"
   status = 301
   force = true
